@@ -1,0 +1,1 @@
+<?php include __DIR__.'/controlador/detall_producto_control.php'; ?>
